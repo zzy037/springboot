@@ -8,6 +8,7 @@ class SpringbootApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("李朋骏 到此一游");
     }
 
 }
